@@ -5,8 +5,8 @@ stages, add and remove them, and watch your weighted forecast update in real tim
 
 > Designed & built by **Michael Ojiemeke** with Claude Code. Next.js 16 · React 19 · TypeScript · Tailwind v4.
 
-**🔗 Live demo:** _added after deploy_
-**💻 Source:** _this repo_
+**🔗 Live demo:** https://ledger-gamma-eosin.vercel.app
+**💻 Source:** https://github.com/mikexander67-cloud/ledger
 
 ---
 

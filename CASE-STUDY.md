@@ -3,7 +3,7 @@
 **Role:** Product design & full-stack development
 **Built with:** Claude Code · Next.js 16 · React 19 · TypeScript · Tailwind v4
 **Type:** Demo SaaS product (built to production standard)
-**Live demo:** _added after deploy_ · **Source:** _GitHub repo_
+**Live demo:** https://ledger-gamma-eosin.vercel.app · **Source:** https://github.com/mikexander67-cloud/ledger
 
 ---
 
